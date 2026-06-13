@@ -22,8 +22,9 @@
 
 ```bash
 g++ Game_2.cpp -o snake.exe
-运行
-bash
+```
+```bash
+#bash
 snake.exe
  注意：由于使用了 Windows 控制台 API，请在 Windows 命令行或 PowerShell 中运行。
 ```
